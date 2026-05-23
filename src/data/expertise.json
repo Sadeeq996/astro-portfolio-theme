@@ -1,28 +1,28 @@
 {
   "items": [
     {
-      "key": "sysadmin",
-      "icon": "server-stack",
-      "title": "Design & Art Direction",
-      "description": "Visual identity, layout, typography, and the aesthetic decisions that make people stop and look twice. Whether print or screen, the goal is the same — work that holds up."
+      "key": "ai-automation",
+      "icon": "cpu-chip",
+      "title": "AI & Automation Engineering",
+      "description": "Architecting production-grade workflow orchestration, multi-tenant AI chatbot ecosystems, and retrieval-augmented generation (RAG) pipelines to streamline technical consulting and business operations[cite: 8, 9, 10, 17, 18, 41]."
     },
     {
-      "key": "webdev",
+      "key": "backend-dev",
       "icon": "code-bracket-square",
-      "title": "Web Design & Development",
-      "description": "From wireframe to deployment — building sites and apps that look considered, perform well, and give visitors exactly what they came for."
+      "title": "Backend Systems & Architecture",
+      "description": "Engineering highly scalable server-side architectures, RESTful APIs, and multivendor headless e-commerce platforms using Node.js, TypeScript, and robust database pooling[cite: 9, 20, 37, 42, 43]."
     },
     {
-      "key": "freelance",
-      "icon": "user-circle",
-      "title": "Creative Freelance",
-      "description": "Independent project work in photography, video, 3D, illustration, or wherever the brief leads. Direct to work with, flexible, and invested in the outcome."
+      "key": "infrastructure",
+      "icon": "server-stack",
+      "title": "Infrastructure & DevOps",
+      "description": "Managing self-hosted infrastructure and containerized environments via Docker and Plesk to secure data sovereignty, alongside building automated software deployment pipelines[cite: 9, 21, 38]."
     },
     {
-      "key": "leadership",
-      "icon": "users",
-      "title": "Collaboration & Direction",
-      "description": "Working alongside teams, clients, and stakeholders to take a project from idea to shipped — clear communication, honest timelines, and work that actually gets done."
+      "key": "doc-automation",
+      "icon": "document-duplicate",
+      "title": "Automated Document Engines",
+      "description": "Building enterprise-scale, automated document rendering pipelines using Adobe InDesign Server and Windows Server environments monitored by native automation scripts[cite: 10, 19, 46]."
     }
   ]
 }

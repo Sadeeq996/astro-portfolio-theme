@@ -5,60 +5,55 @@
   },
   "categories": [
     {
-      "title": "Design & Illustration",
+      "title": "AI & Automation Orchestration",
       "skills": [
-        { "name": "Figma",       "icon": "simple-icons:figma" },
-        { "name": "Photoshop",   "icon": "simple-icons:adobephotoshop" },
-        { "name": "Illustrator", "icon": "simple-icons:adobeillustrator" },
-        { "name": "Blender",     "icon": "simple-icons:blender" },
-        { "name": "Sketch",      "icon": "simple-icons:sketch" }
+        { "name": "n8n (Expert)", "icon": "simple-icons:n8n" },
+        { "name": "Zapier", "icon": "simple-icons:zapier" },
+        { "name": "RAG (Retrieval-Augmented Generation)", "icon": "simple-icons:googlegemini" },
+        { "name": "Vector Databases", "icon": "simple-icons:mongodb" },
+        { "name": "LLM Integration (Gemini, OpenAI)", "icon": "simple-icons:openai" },
+        { "name": "Automated Document Generation", "icon": "simple-icons:adobe" }
       ]
     },
     {
-      "title": "Web & Frontend",
+      "title": "Backend Engineering & Architecture",
       "skills": [
-        { "name": "HTML5",      "icon": "simple-icons:html5" },
-        { "name": "CSS3",       "icon": "simple-icons:css3" },
-        { "name": "JavaScript", "icon": "simple-icons:javascript" },
+        { "name": "Node.js", "icon": "simple-icons:nodedotjs" },
         { "name": "TypeScript", "icon": "simple-icons:typescript" },
-        { "name": "React",      "icon": "simple-icons:react" },
-        { "name": "Bootstrap",  "icon": "simple-icons:bootstrap" }
+        { "name": "PostgreSQL", "icon": "simple-icons:postgresql" },
+        { "name": "Redis", "icon": "simple-icons:redis" },
+        { "name": "RESTful APIs", "icon": "simple-icons:postman" },
+        { "name": "Java", "icon": "simple-icons:oracle" }
       ]
     },
     {
-      "title": "Motion, 3D & Video",
+      "title": "Infrastructure & DevOps",
       "skills": [
-        { "name": "Three.js",     "icon": "simple-icons:threedotjs" },
-        { "name": "After Effects","icon": "simple-icons:adobeaftereffects" },
-        { "name": "Premiere Pro", "icon": "simple-icons:adobepremierepro" },
-        { "name": "Photoshop",    "icon": "simple-icons:adobephotoshop" }
+        { "name": "Docker", "icon": "simple-icons:docker" },
+        { "name": "Plesk", "icon": "simple-icons:plesk" },
+        { "name": "Self-hosting (Gitea, MongoDB)", "icon": "simple-icons:gitea" },
+        { "name": "GitHub Actions", "icon": "simple-icons:githubactions" },
+        { "name": "Linux Server Administration", "icon": "simple-icons:linux" },
+        { "name": "PowerShell & Windows Server", "icon": "simple-icons:powershell" }
       ]
     },
     {
-      "title": "Platforms & Publishing",
+      "title": "Web, Frontend & Frameworks",
       "skills": [
-        { "name": "WordPress", "icon": "simple-icons:wordpress" },
-        { "name": "Drupal",    "icon": "simple-icons:drupal" },
-        { "name": "Hugo",      "icon": "simple-icons:hugo" },
-        { "name": "AWS",       "icon": "simple-icons:amazonaws" }
+        { "name": "Angular", "icon": "simple-icons:angular" },
+        { "name": "JavaScript", "icon": "simple-icons:javascript" },
+        { "name": "HTML5", "icon": "simple-icons:html5" },
+        { "name": "CSS3", "icon": "simple-icons:css3" },
+        { "name": "Git", "icon": "simple-icons:git" },
+        { "name": "Agile Methodology", "icon": "simple-icons:jira" }
       ]
     },
     {
-      "title": "Dev & Workflow Tools",
+      "title": "Networking & Cybersecurity",
       "skills": [
-        { "name": "Git",      "icon": "simple-icons:git" },
-        { "name": "GitHub",   "icon": "simple-icons:github" },
-        { "name": "Bash",     "icon": "simple-icons:gnubash" },
-        { "name": "Markdown", "icon": "simple-icons:markdown" }
-      ]
-    },
-    {
-      "title": "Data & Infrastructure",
-      "skills": [
-        { "name": "SQLite",     "icon": "simple-icons:sqlite" },
-        { "name": "Nginx",      "icon": "simple-icons:nginx" },
-        { "name": "Docker",     "icon": "simple-icons:docker" },
-        { "name": "Prometheus", "icon": "simple-icons:prometheus" }
+        { "name": "CCNA Networking", "icon": "simple-icons:cisco" },
+        { "name": "Ethical Hacker Fundamentals", "icon": "simple-icons:cisco" },
+        { "name": "CompTIA A+", "icon": "simple-icons:comptia" }
       ]
     }
   ]

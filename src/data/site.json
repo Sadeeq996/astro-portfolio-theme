@@ -1,114 +1,107 @@
 {
-  "title": "Your Name Here | Creative Portfolio",
-  "description": "Portfolio of a designer, developer, and creator. Browse work spanning web, visual design, 3D, video, and more — then reach out.",
-  "ogSiteName": "Portfolio",
-  "shortName": "FOLIO",
-  "tagline": "Designing experiences · Building products · Telling stories",
+  "title": "Abubakar Suleiman | AI Automation & Software Engineer Portfolio",
+  "description": "Portfolio of Abubakar Suleiman, a Senior AI Automation Engineer and Software Engineer specializing in n8n workflow orchestration, Node.js backend systems, and self-hosted infrastructure.",
+  "ogSiteName": "Abubakar Suleiman Portfolio",
+  "shortName": "SADEEQ",
+  "tagline": "Orchestrating workflows · Architecting backend systems · Deploying AI agents",
   "themeStorageKey": "portfolio-theme",
   "web3formsKey": "YOUR_WEB3FORMS_KEY_HERE",
   "footerAttribution": {
     "builder": "Built with this open-source template",
-    "builderUrl": "https://github.com/your-github-handle",
-    "host": "Hosted on your platform of choice",
-    "hostUrl": "https://yourdomain.com"
+    "builderUrl": "https://github.com/sadeeq996/portfolio-template",
+    "host": "Self-hosted on Plesk",
+    "hostUrl": "https://talenttic.com"
   },
-  "retroTvCount": 21,
+  "retroTvCount": 5,
   "seoKeywords": [
-    "Creative Portfolio",
-    "Web Designer",
-    "Visual Artist",
-    "UI/UX Design",
-    "Front-End Developer",
-    "3D Artist",
-    "Motion Graphics",
-    "Brand Identity",
-    "Freelance Designer",
-    "Video Editor",
-    "Photography",
-    "Illustration",
-    "Digital Art",
-    "Graphic Design",
-    "Interactive Design",
-    "Product Design",
-    "Creative Direction",
-    "Art Direction",
+    "AI Automation Engineer",
+    "Software Engineer",
+    "n8n Expert",
+    "Workflow Orchestration",
+    "Node.js Backend",
+    "TypeScript Developer",
+    "Retrieval-Augmented Generation (RAG)",
+    "LLM Integration",
+    "Docker Infrastructure",
+    "Self-Hosting Specialist",
+    "Plesk Administration",
+    "Chatwoot AI Chatbots",
+    "Bexio Integration",
+    "Adobe InDesign Server Automation",
+    "Medusa 2.0 Backend",
+    "PostgreSQL & Redis Architecture",
     "Full-Stack Developer",
-    "Animator",
-    "Typographer",
-    "Storyteller",
-    "Open to Work",
-    "Available for Projects",
-    "Design Systems",
-    "Visual Storytelling"
+    "DevOps Pipeline Engineering",
+    "Open Source Contributor",
+    "Data Sovereignty Architecture",
+    "Automated Document Rendering",
+    "API Development",
+    "AI Transcription Pipelines",
+    "Vector Database Architect",
+    "Kaduna Tech Engineer"
   ],
   "navExternal": [
     {
-      "label": "Blog",
-      "desc": "Writing on design, process, and what I'm learning",
-      "personalKey": "blog",
-      "urlTemplate": "{value}"
-    },
-    {
       "label": "GitHub",
-      "desc": "Open-source work and side experiments",
+      "desc": "Open-source work, local LLM projects, and side experiments",
       "personalKey": "github",
-      "urlTemplate": "https://github.com/{value}"
+      "urlTemplate": "https://github.com/sadeeq996"
     },
     {
       "label": "LinkedIn",
-      "desc": "Professional profile and recommendations",
+      "desc": "Professional profile and technical consulting network",
       "personalKey": "linkedin",
-      "urlTemplate": "https://linkedin.com/in/{value}"
+      "urlTemplate": "https://linkedin.com/in/sadeeq996"
     },
     {
       "label": "Email",
-      "desc": "Best way to reach me for project inquiries",
+      "desc": "Best way to reach me for project or agency inquiries",
       "personalKey": "email",
-      "urlTemplate": "mailto:{value}"
+      "urlTemplate": "mailto:sadeeq996@gmail.com"
     },
     {
       "label": "Phone",
-      "desc": "Available for calls by appointment",
+      "desc": "Available for urgent production support and consulting calls",
       "personalKey": "phone",
-      "urlTemplate": "tel:{value}"
+      "urlTemplate": "tel:+2348036520529"
     }
   ],
   "serviceSites": [
     {
-      "badge": "Client Work",
+      "badge": "Agency & Consulting",
       "badgeColor": "#6366f1",
       "cardAccent": "#6366f1",
       "glowColor": "rgba(99, 102, 241, 0.12)",
       "iconBg": "rgba(99, 102, 241, 0.1)",
       "iconBorder": "rgba(99, 102, 241, 0.18)",
       "iconType": "web",
-      "name": "YourStudio.co",
-      "url": "https://yourstudio.co",
-      "description": "A dedicated space for client work — branding, web builds, campaigns, and everything in between. Full-service creative from concept through delivery, built on clear communication and no surprises.",
+      "name": "Talenttic Tech Hub",
+      "url": "https://talenttic.com",
+      "description": "Our core engineering agency specializing in AI-powered automation, enterprise software development, and quality engineering. We deliver production-grade workflows and scale operational architectures for international clients.",
       "features": [
-        "Brand Identity & Visual Systems",
-        "Web Design & Development",
-        "Campaign Creative & Direction"
+        "AI & Production-Grade n8n Workflow Orchestration",
+        "Multi-Tenant Support Chatbots & CRM Integrations",
+        "Scalable Headless Commerce Backend Architecture"
       ],
-      "ctaText": "View Studio Work"
+      "ctaText": "Explore Talenttic"
     },
     {
-      "badge": "Side Project",
+      "badge": "Self-Hosted Infrastructure",
       "badgeColor": "#10b981",
       "cardAccent": "#10b981",
       "glowColor": "rgba(16, 185, 129, 0.15)",
       "iconBg": "rgba(16, 185, 129, 0.1)",
       "iconBorder": "rgba(16, 185, 129, 0.2)",
       "iconType": "server",
-      "name": "YourProject.io",
-      "url": "https://yourproject.io",
-      "description": "A personal project built to scratch an itch — self-hosted, self-managed, and entirely my own problem to maintain. Independent, opinionated, and shipped without a committee.",
+      "name": "Self-Hosted DevOps Stack",
+      "url": "https://github.com/sadeeq996",
+      "description": "Internal developer environments configured to protect data sovereignty. Built using containerized Docker environments managed through Plesk, housing self-hosted instances of n8n, Gitea, and MongoDB Atlas clusters.",
       "features": [
-        "Self-Hosted & Fully Independent",
-        "Iterating in Public",
-        "Built for One Person: Me"
+        "Docker Containerized Environments via Plesk",
+        "Data Sovereignty & Self-Hosted Gitea Clusters",
+        "Automated CI/CD via Git Hooks and Actions"
       ],
-      "ctaText": "Check It Out"
+      "ctaText": "View Infrastructure Projects"
     }
   ]
 }

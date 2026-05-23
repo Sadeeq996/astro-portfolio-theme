@@ -1,34 +1,54 @@
 [
   {
-    "title": "Brand Identity & Visual System",
-    "category": "Branding",
-    "description": "A complete brand overhaul for a growing company — logo, typography, color system, and a style guide built to scale. Designed for flexibility without sacrificing cohesion.",
+    "title": "Yan AI (Internal Operations Assistant)",
+    "category": "AI & Automation",
+    "description": "Built a custom RAG-based AI assistant using vector embeddings and LLM integration to index company-wide documentation for operational knowledge retrieval[cite: 41].",
     "images": [
-      "/images/portfolio/project-1a.jpg",
-      "/images/portfolio/project-1b.jpg",
-      "/images/portfolio/project-1c.jpg"
+      "/images/portfolio/yan-ai-1.jpg",
+      "/images/portfolio/yan-ai-2.jpg"
     ],
-    "slides": ["Brand Overview", "Style Guide Spread", "Product Shot"]
+    "slides": ["Architecture Overview", "Knowledge Base Retrieval Interface"]
   },
   {
-    "title": "Interactive Web Experience",
-    "category": "Web Design",
-    "description": "A custom-built site blending editorial layout with smooth scroll interactions and motion. Designed in Figma, built in code, and optimized down to the frame.",
+    "title": "Sitto.ch AI Ecosystem",
+    "category": "AI & Automation",
+    "description": "Migrated legacy support systems to a custom n8n and Chatwoot-driven AI chatbot, integrated with Bexio for automated financial data processing[cite: 18, 45]. Deployed a multi-tenant ecosystem automating customer support and financial inquiries[cite: 18].",
     "images": [
-      "/images/portfolio/project-2a.jpg",
-      "/images/portfolio/project-2b.jpg",
-      "/images/portfolio/project-2c.jpg"
+      "/images/portfolio/sitto1.png",
+      "/images/portfolio/sitto2.png",
+      "/images/portfolio/sitto3.png"
     ],
-    "slides": ["Homepage Figma Design", "Homepage Complete", "Second Phase app page"]
+    "slides": ["Chatwoot Dashboard Migration", "n8n Workflow Execution", "Bexio Invoice Automation Flow"]
   },
   {
-    "title": "Short Film & Motion Piece",
-    "category": "Video",
-    "description": "A two-minute visual essay combining original footage, 3D elements, and motion design. Shot, edited, and scored independently — start to finish in three weeks.",
+    "title": "ARC Document Engine",
+    "category": "Backend Engineering",
+    "description": "Built an enterprise-scale automated document rendering pipeline using Adobe InDesign Server, PowerShell monitoring agents, and Windows Server infrastructure for high-volume document generation workflows[cite: 19, 46].",
     "images": [
-      "/images/portfolio/project-3a.jpg",
-      "/images/portfolio/project-3b.jpg"
+      "/images/portfolio/arc-1.png",
+      "/images/portfolio/arc-2.png",
+      "/images/portfolio/arc-3.png"
     ],
-    "slides": ["Opening Scene", "Modeling Sequence", "Developing Music for Documentary"]
+    "slides": ["InDesign Server Rendering Pipeline", "PowerShell Heartbeat Monitor Monitor Logs"]
+  },
+  {
+    "title": "Vendostack / Sellpadi",
+    "category": "Web Development",
+    "description": "Architected a high-performance, multivendor headless e-commerce platform[cite: 42, 43]. Developed the backend using Medusa 2.0, PostgreSQL, and Redis to support scalable vendor onboarding and product management workflows[cite: 20].",
+    "images": [
+      "/images/portfolio/vendostack-1.png",
+      "/images/portfolio/vendostack-2.png"
+    ],
+    "slides": ["Headless Architecture Schema", "Vendor Onboarding Workflow Dashboard"]
+  },
+  {
+    "title": "BeaconHub (Google Play Store)",
+    "category": "Mobile Development",
+    "description": "Lead developer for a production-grade mobile application, overseeing the end-to-end lifecycle from technical architecture to successful deployment on the Play Store[cite: 44].",
+    "images": [
+      "/images/portfolio/beaconhub-1.png",
+      "/images/portfolio/beaconhub-2.png"
+    ],
+    "slides": ["Google Play Store Release & Metrics"]
   }
 ]

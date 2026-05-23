@@ -1,47 +1,83 @@
 [
   {
-    "name": "Google UX Design Certificate",
-    "issuer": "Google / Coursera",
-    "date": "May 2026",
+    "name": "Cisco Certified Network Associate (CCNA)",
+    "issuer": "Cisco",
+    "date": "",
     "status": "Earned",
     "type": "certification",
-    "description": "Seven-course program covering UX research, wireframing, prototyping, and usability testing. Emphasis on human-centered design principles and building accessible, inclusive user experiences.",
+    "description": "Networking & Cybersecurity core certification.",
     "credentialUrl": ""
   },
   {
-    "name": "Freelance Business Foundations",
-    "issuer": "CreativeLive",
-    "date": "December 2025",
+    "name": "Ethical Hacker",
+    "issuer": "Cisco Networking Academy",
+    "date": "",
     "status": "Earned",
     "type": "certification",
-    "description": "Business-side program covering client acquisition, proposal writing, contracts, pricing strategy, and scope management. A practical toolkit for running an independent creative practice.",
+    "description": "Cybersecurity and ethical hacking fundamentals.",
     "credentialUrl": ""
   },
   {
-    "name": "Motion Design with After Effects",
-    "issuer": "School of Motion",
-    "date": "August 2024",
-    "status": "Completed",
-    "type": "professional-development",
-    "description": "Motion principles, keyframe animation, easing curves, and compositing applied to title sequences, UI animations, and explainer video production.",
+    "name": "Diploma in Computer Networking",
+    "issuer": "Alison",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Comprehensive course covering network protocols, architecture, and administration.",
     "credentialUrl": ""
   },
   {
-    "name": "3D Art for Real-Time Engines",
-    "issuer": "Unity Learn / Epic Games",
-    "date": "Target: Q3 2027",
-    "status": "In Progress",
-    "type": "in-progress",
-    "description": "Bridging offline rendering knowledge with real-time constraints — optimizing assets, baking maps, and building environments in Unreal Engine for interactive and immersive projects.",
+    "name": "Diploma in Application Development (PHP & MySQL)",
+    "issuer": "Alison",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Software & Development certification focused on backend application development using PHP and MySQL databases.",
     "credentialUrl": ""
   },
   {
-    "name": "Creative Coding & Generative AI",
-    "issuer": "Domestika / Runway",
-    "date": "Target: 2028",
-    "status": "In Progress",
-    "type": "in-progress",
-    "description": "Exploring the intersection of code, generative models, and visual art — building interactive installations, AI-assisted design tools, and procedural media for web and physical spaces.",
+    "name": "Professional Diploma in Web Design & Development",
+    "issuer": "MTF Institute",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Professional program covering modern web design practices and structural development methodologies.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "Angular Certificate",
+    "issuer": "DataFlair",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Frontend framework certification for single-page application development.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "Java Certificate",
+    "issuer": "DataFlair",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Core object-oriented programming concepts and application architecture in Java.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "SQL, JavaScript, HTML & CSS Certificates",
+    "issuer": "DataFlair",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Foundational web and data development stack certifications covering structural, behavioral, and database query technologies.",
+    "credentialUrl": ""
+  },
+  {
+    "name": "CompTIA A+",
+    "issuer": "Alison",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "DevOps and IT foundational certification covering hardware, operating systems, and fundamental operational troubleshooting.",
     "credentialUrl": ""
   }
 ]
