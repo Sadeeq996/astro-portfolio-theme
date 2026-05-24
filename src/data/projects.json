@@ -3,7 +3,7 @@
   "items": [
     {
       "title": "Yan AI",
-      "featured": false,
+      "featured": true,
       "resume": true,
       "company": "Talenttic Tech Hub",
       "category": "ai-automation",
@@ -30,9 +30,9 @@
       "description": "Migrated legacy support systems to a custom n8n and Chatwoot-driven AI chatbot, integrated with Bexio for automated financial data processing[cite: 45]. Deployed a multi-tenant ecosystem automating customer support and financial inquiries[cite: 18].",
       "tags": ["n8n", "Chatwoot", "Bexio", "Automation", "Workflow Orchestration" ],
       "icon": "cpu-chip",
-      "sliderImage": "/images/projects/sitto-2.png",
+      "sliderImage": "/images/projects/sitto2.png",
       "sliderOrder": 2,
-      "backgroundImage": "/images/projects/sitto-1.png",
+      "backgroundImage": "/images/projects/sitto1.png",
       "images": [
         "/images/projects/sitto1.png",
         "/images/projects/sitto2.png",
