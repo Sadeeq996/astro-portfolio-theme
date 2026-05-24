@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: 2. Deploy to GitHub Pages
 on:
   # Manual trigger:
   #
@@ -36,12 +36,12 @@ jobs:
           if [ "$PAGES_INFO" = "404" ]; then
             echo ""
             echo "╔══════════════════════════════════════════════════════════════════╗"
-            echo "║  GitHub Pages is not enabled for this repository.                      ║"
-            echo "║                                                                        ║"
-            echo "║  Fix: Go to Settings → Pages → Build and deployment                    ║"
-            echo "║       Set Source to: GitHub Actions                                    ║"
-            echo "║                                                                        ║"
-            echo "║  URL: https://github.com/${{ github.repository }}/settings/pages       ║"
+            echo "║  GitHub Pages is not enabled for this repository.                 ║"
+            echo "║                                                                  ║"
+            echo "║  Fix: Go to Settings → Pages → Build and deployment              ║"
+            echo "║       Set Source to: GitHub Actions                              ║"
+            echo "║                                                                  ║"
+            echo "║  URL: https://github.com/${{ github.repository }}/settings/pages  ║"
             echo "╚══════════════════════════════════════════════════════════════════╝"
             echo ""
             exit 1
@@ -54,13 +54,13 @@ jobs:
           if [ "$SOURCE" != "workflow" ]; then
             echo ""
             echo "╔══════════════════════════════════════════════════════════════════╗"
-            echo "║  GitHub Pages source is not set to 'GitHub Actions'.                   ║"
-            echo "║  Current source: $SOURCE"                                              ║"
-            echo "║                                                                        ║"
-            echo "║  Fix: Go to Settings → Pages → Build and deployment                    ║"
-            echo "║       Set Source to: GitHub Actions                                    ║"
-            echo "║                                                                        ║"
-            echo "║  URL: https://github.com/${{ github.repository }}/settings/pages       ║"
+            echo "║  GitHub Pages source is not set to 'GitHub Actions'.             ║"
+            echo "║  Current source: $SOURCE                                         ║"
+            echo "║                                                                  ║"
+            echo "║  Fix: Go to Settings → Pages → Build and deployment              ║"
+            echo "║       Set Source to: GitHub Actions                              ║"
+            echo "║                                                                  ║"
+            echo "║  URL: https://github.com/${{ github.repository }}/settings/pages  ║"
             echo "╚══════════════════════════════════════════════════════════════════╝"
             echo ""
             exit 1
