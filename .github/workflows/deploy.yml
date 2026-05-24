@@ -14,8 +14,8 @@ on:
   # every time you push a change, uncomment the three lines below.
   # Just remove the leading '#' from each of the three lines.
   #
-  #push:
-  #  branches: [main]
+  push:
+    branches: [main]
 permissions:
   contents: read
   pages: write
@@ -103,7 +103,7 @@ jobs:
         env:
           SITE_URL: ${{ env.SITE_URL }}
           BASE_PATH: ${{ env.BASE_PATH }}
-          GITHUB_USER: ${{ vars.GITHUB_USER }}
+          GITHUB_USER: Sadeeq996
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
