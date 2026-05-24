@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Yan AI",
-      "featured": true,
+      "featured": false,
       "resume": true,
       "company": "Talenttic Tech Hub",
       "category": "ai-automation",
       "description": "Built a custom RAG-based AI assistant using vector embeddings and LLM integration to index company-wide documentation for operational knowledge retrieval[cite: 41].",
       "tags": ["RAG", "Vector Databases", "LLM Integration", "Gemini", "OpenAI", "Node.js" ],
       "icon": "command-line",
-      "sliderImage": "/images/projects/yan-ai-2.jpg",
+      "sliderImage": "/images/projects/yan-ai-2.png",
       "sliderOrder": 1,
-      "backgroundImage": "/images/projects/yan-ai-1.jpg",
+      "backgroundImage": "/images/projects/yan-ai-1.png",
       "images": [
-        "/images/projects/yan-ai-1.jpg",
-        "/images/projects/yan-ai-2.jpg"
+        "/images/projects/yan-ai-1.png",
+        "/images/projects/yan-ai-2.png"
       ],
       "link": "",
       "colorIcon": "devicon:google",
@@ -30,13 +30,13 @@
       "description": "Migrated legacy support systems to a custom n8n and Chatwoot-driven AI chatbot, integrated with Bexio for automated financial data processing[cite: 45]. Deployed a multi-tenant ecosystem automating customer support and financial inquiries[cite: 18].",
       "tags": ["n8n", "Chatwoot", "Bexio", "Automation", "Workflow Orchestration" ],
       "icon": "cpu-chip",
-      "sliderImage": "/images/projects/sitto-2.jpg",
+      "sliderImage": "/images/projects/sitto-2.png",
       "sliderOrder": 2,
-      "backgroundImage": "/images/projects/sitto-1.jpg",
+      "backgroundImage": "/images/projects/sitto-1.png",
       "images": [
-        "/images/projects/sitto-1.jpg",
-        "/images/projects/sitto-2.jpg",
-        "/images/projects/sitto-3.jpg"
+        "/images/projects/sitto1.png",
+        "/images/projects/sitto2.png",
+        "/images/projects/sitto3.png"
       ],
       "link": "",
       "colorIcon": "devicon:nodejs",
@@ -50,12 +50,12 @@
       "description": "Built an enterprise-scale automated document rendering pipeline using Adobe InDesign Server, PowerShell monitoring agents, and Windows Server infrastructure for high-volume document generation workflows[cite: 46].",
       "tags": ["Adobe InDesign Server", "PowerShell", "Windows Server", "Infrastructure" ],
       "icon": "document-text",
-      "sliderImage": "/images/projects/arc-2.jpg",
+      "sliderImage": "/images/projects/arc-2.png",
       "sliderOrder": 3,
-      "backgroundImage": "/images/projects/arc-1.jpg",
+      "backgroundImage": "/images/projects/arc-1.png",
       "images": [
-        "/images/projects/arc-1.jpg",
-        "/images/projects/arc-2.jpg"
+        "/images/projects/arc-1.png",
+        "/images/projects/arc-2.png"
       ],
       "link": "",
       "colorIcon": "devicon:windows",
@@ -70,12 +70,12 @@
       "description": "Architected a high-performance multivendor e-commerce platform using Vendure[cite: 42]. Developed the backend infrastructure ('Sellpadi') using Medusa 2.0, PostgreSQL, and Redis to support scalable vendor onboarding and product management workflows[cite: 20].",
       "tags": ["Medusa 2.0", "Vendure", "PostgreSQL", "Redis", "TypeScript" ],
       "icon": "eye",
-      "sliderImage": "/images/projects/vendostack-2.jpg",
+      "sliderImage": "/images/projects/vendostack-2.png",
       "sliderOrder": 4,
-      "backgroundImage": "/images/projects/vendostack-1.jpg",
+      "backgroundImage": "/images/projects/vendostack-1.png",
       "images": [
-        "/images/projects/vendostack-1.jpg",
-        "/images/projects/vendostack-2.jpg"
+        "/images/projects/vendostack-1.png",
+        "/images/projects/vendostack-2.png"
       ],
       "link": "",
       "colorIcon": "devicon:postgresql",
@@ -90,11 +90,11 @@
       "description": "Lead developer for a production-grade mobile application, overseeing the end-to-end lifecycle from technical architecture to successful deployment on the Google Play Store[cite: 44].",
       "tags": ["Mobile Development", "JavaScript", "Technical Architecture", "Google Play Store" ],
       "icon": "command-line",
-      "sliderImage": "/images/projects/beaconhub-1.jpg",
+      "sliderImage": "/images/projects/beaconhub-1.png",
       "sliderOrder": 5,
-      "backgroundImage": "/images/projects/beaconhub-1.jpg",
+      "backgroundImage": "/images/projects/beaconhub-1.png",
       "images": [
-        "/images/projects/beaconhub-1.jpg"
+        "/images/projects/beaconhub-1.png"
       ],
       "link": "",
       "colorIcon": "devicon:android",
@@ -109,11 +109,11 @@
       "description": "Implemented a self-updating portfolio system using n8n and GitHub Actions to automatically synchronize project metadata and reduce manual portfolio maintenance[cite: 22].",
       "tags": ["n8n", "GitHub Actions", "Automation", "CI-CD" ],
       "icon": "command-line",
-      "sliderImage": "/images/projects/portfolio-system-1.jpg",
+      "sliderImage": "/images/projects/portfolio-system-1.png",
       "sliderOrder": 6,
-      "backgroundImage": "/images/projects/portfolio-system-1.jpg",
+      "backgroundImage": "/images/projects/portfolio-system-1.png",
       "images": [
-        "/images/projects/portfolio-system-1.jpg"
+        "/images/projects/portfolio-system-1.png"
       ],
       "link": "",
       "colorIcon": "devicon:githubactions",

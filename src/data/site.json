@@ -7,9 +7,9 @@
   "themeStorageKey": "portfolio-theme",
   "web3formsKey": "YOUR_WEB3FORMS_KEY_HERE",
   "footerAttribution": {
-    "builder": "Built with this open-source template",
+    "builder": "Abubakar Sadeeq with this open-source template",
     "builderUrl": "https://github.com/sadeeq996/portfolio-template",
-    "host": "Self-hosted on Plesk",
+    "host": "GitHub Pages",
     "hostUrl": "https://talenttic.com"
   },
   "retroTvCount": 5,

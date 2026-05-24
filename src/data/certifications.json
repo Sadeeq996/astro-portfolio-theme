@@ -14,8 +14,8 @@
     "date": "",
     "status": "Earned",
     "type": "certification",
-    "description": "Cybersecurity and ethical hacking fundamentals.",
-    "credentialUrl": ""
+    "description": "Cisco verifies the earner of this badge successfully completed the Ethical Hacker course. The holder of this student level credential has a broad understanding of the legal and compliance requirements and is proficient in the art of scoping, executing, reporting vulnerability assessments, and recommending mitigation strategies. The holder has completed up to 34 hands-on activities using Kali Linux, WebSploit, and other tools..",
+    "credentialUrl": "https://www.credly.com/badges/b5843c31-df20-4ba7-8bd1-102780309a6c"
   },
   {
     "name": "Diploma in Computer Networking",
@@ -79,5 +79,14 @@
     "type": "certification",
     "description": "DevOps and IT foundational certification covering hardware, operating systems, and fundamental operational troubleshooting.",
     "credentialUrl": ""
+  },
+  {
+    "name": "Introduction to Modern AI",
+    "issuer": "Cisco",
+    "date": "",
+    "status": "Earned",
+    "type": "certification",
+    "description": "Cisco verifies the earner of this badge successfully completed the Introduction to Modern AI course. The learner will have practiced using AI enabled features on free apps, such as photo apps, translation services, and chatbots. They will have had in depth practice in prompting a chatbot, and understand fundamentals of how the models work, which informs how they prompt chatbots.",
+    "credentialUrl": "https://www.credly.com/badges/3cdde440-97ce-4d55-a3a4-042d52f79908/public_url"
   }
 ]
